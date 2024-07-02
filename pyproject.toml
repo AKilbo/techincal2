@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "profluent-technical"
+version = "0.1.0"
+description = "technical for profluent"
+authors = ["Alex Kilbo <akilbo@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+jupyter = "^1.0"
+ipykernel = "^6.0"
+pandas = "^1.3"
+biopython = "^1.79"
+primer3-py = "^2.0.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api" 

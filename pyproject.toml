@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "profluent-technical"
+name = "technical"
 version = "0.1.0"
-description = "technical for profluent"
+description = "technical challenge code"
 authors = ["Alex Kilbo <akilbo@gmail.com>"]
 
 [tool.poetry.dependencies]
